@@ -1,0 +1,9 @@
+    ORG 100
+MIN,DEC 83
+SUB,DEC 30
+DIF,HEX 1E
+    CMA
+    INC
+    ADD MIN 
+    END
+ 
